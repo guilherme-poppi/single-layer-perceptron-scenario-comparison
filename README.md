@@ -2,8 +2,10 @@
 
 Practical analysis of a sigmoid activation function in a single-layer perceptron, comparing two input scenarios.
 
-This project explores the fundamentals of single-layer perceptrons by implementing and visualizing different input scenarios.
+This project explores the fundamentals of single-layer perceptrons by implementing and visualizing different input scenarios.  
 Experiment with different parameters to observe how they affect the activation curves.
+
+
 
 ![Perceptron Scenario Comparison](perceptron_comparison.png)
 
